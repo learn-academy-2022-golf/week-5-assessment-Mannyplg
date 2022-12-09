@@ -10,31 +10,32 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Your answer: When calling a super, we ask that our new thing we're making, have an similiar outline as a standard feature.
 
-Researched answer: Keyword; calls on a parent class with the same name as the method thatb calls super...(ref.rubyguides.com) 
+Researched answer: Keyword calls on a parent class with the same name as the method thatb calls super
 
 2. What is a gem? 
 
 Your answer: Similiar to Node.js, Ruby has packages or libraries that can be used to provide common functions in a program.
 
-Researched answer: Libraries that contain Ruby code that allows a programmer to use the code within the gem in their own program, without inserting that code...(www.medium.com)
+Researched answer: Libraries that contain Ruby code that allows a programmer to use the code within the gem in their own program.
 
 3. What is a relational database? Are there other kinds of databases?
 
 Your answer: Making sense of information from data listed on row, tables , an or columns. there are other databases such as MongoDB, HarperDb, etc...
 
-Researched answer: Relational database establishes links between information by joining tables, which makes it easy to understand and gain insights about the relationship between variour data points...(www.cloud.google.com)
+Researched answer: Relational database establishes links between information by joining tables, which makes it easy to understand relationship between various data points. Sharing Primary key identifier.
 
 4. What are primary keys? Why are they important?
 
 Your answer: Primary keys are unique identifiers for each value in a database table.
 
-Researched answer: a database must have a primary key for accessing and modifying data. Primary key is the column or row that contain unique values...(www.ibm.com)
+Researched answer: Databases must have a primary key for accessing and modifying data. Primary key is the column or row that contain unique values.
 
 5. What are the HTTP verbs? What is each verb's corresponding CRUD action?
 
 Your answer: The Hypertext Transfer Protocol verbs are GET, POST, PUT, PATCH, and DELETE. GET- read/display. POST- add new content, a create action. PUT- replaces content-update action. PATCH- replaces pieces of content, update action. DELETE- deletes and removes content action.
 
-Researched answer: In computer programming, create, read, update, and delete are four basic operations of persistent storage...(www.wikipedia.com)
+Researched answer: HTTP verbs are a standard protocol for CRUD actions in our programming. Get-retrieves data, Post- sends data to loaded in database, Put overides aprvious instance in the atabase and Patch Updates one or more keys in database. Delete removes data from database.
+ Ability to bring data to the user, save data, and have ability to access that data.
 
 ## Looking Ahead: Terms for Next Week
 
